@@ -1,1 +1,1 @@
-# AASTU-GDSC
+# AASTU-GDG
